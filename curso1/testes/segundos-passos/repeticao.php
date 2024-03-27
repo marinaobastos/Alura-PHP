@@ -7,5 +7,4 @@ while($contador <= 15) {
     ++$contador;
 }
 
-
 ?>

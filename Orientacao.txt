@@ -1,0 +1,13 @@
+Passo a passo
+
+*1* A LINGUAGEM PHP
+
+1) Curso PhP: conceitos, lidando com dados, loops e mais
+
+2) Curso Avançando com PHP: Arrays, Strings, Função e Web
+
+======================================================================
+
+*2* APROFUNDAMENTO EM STRINGS E ARRAYS
+
+3) PHP: manipulando coleções com Arrays
