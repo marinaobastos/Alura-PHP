@@ -4,4 +4,6 @@ Curso introdutório de PHP com exercícios mostrados em aula para treinamento da
 
 Curso 1 -> A linguagem PHP ✅
 
-Curso 2 -> Aprofundando em Strings e Arrays
+Curso 2 -> Avançando com PHP: Arrays, Strings, Função e Web
+
+Curso 3 -> Aprofundando em Strings e Arrays
