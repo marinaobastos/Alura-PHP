@@ -6,4 +6,7 @@ Curso 1 -> A linguagem PHP ✅
 
 Curso 2 -> Avançando com PHP: Arrays, Strings, Função e Web ✅
 
-Curso 3 -> Aprofundando em Strings e Arrays
+Curso 3 -> Aprofundando em Strings e Arrays ✅
+
+Curso 4 -> PHP Strings: manipulando textos com PHP
+

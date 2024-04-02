@@ -1,0 +1,3 @@
+array_key_exists = verifica se a chave existe
+in_array = verifica se o valor existe 
+isset = verifica se a chave existe e se ela não é nula

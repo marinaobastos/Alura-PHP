@@ -1,0 +1,28 @@
+<?php
+
+// Ordenando de forma alfabética com uksort (muito complexo, não usar sempre que possível)
+
+$notas = [
+
+    'Maria' => [
+        'nota' => 10,
+    ],
+    'Vinícius' => [
+        'nota' => 6,
+    ],
+    'Ana' => [
+        'nota' => 9,
+    ],
+];
+
+function ordenaNotas($aluno1, $aluno2): int {
+
+    return strcmp($aluno1, $aluno2);
+
+}
+
+uksort($notas, 'ordenaNotas');
+var_dump($notas);
+//print_r($notas); 
+
+?>
