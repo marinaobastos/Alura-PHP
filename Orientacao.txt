@@ -15,3 +15,13 @@ Passo a passo
 4) PHP Strings: manipulando textos com PHP
 
 ======================================================================
+
+*3* ORIENTAÇÃO A OBJETOS
+
+5) Orientação a Objetos com PHP: Classes, métodos e atributos
+
+6) Avançando com Orientação a Objetos: Herança, Polimorfismo e Interfaces
+
+======================================================================
+
+*4* Manipulação de arquivos e tratamento de erros
