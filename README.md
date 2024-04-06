@@ -10,5 +10,7 @@ Curso 3 -> Aprofundando em Strings e Arrays ✅
 
 Curso 4 -> PHP Strings: manipulando textos com PHP ✅
 
-Curso 5 -> Orientação a Objetos com PHP: Classes, métodos e atributos
+Curso 5 -> Orientação a Objetos com PHP: Classes, métodos e atributos ✅
+
+Curso 6 -> Avançando com Orientação a Objetos: Herança, Polimorfismo e Interfaces
 

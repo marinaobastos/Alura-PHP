@@ -1,0 +1,8 @@
+Fundamentos da Orientação a Objetos
+
+Abstração: trazer apenas o necessário para o sistema.
+
+Encapsulamento: expor para o usuário somente o necessário.
+
+Atributo estático: atributo da classe, não das instâncias de uma classe.
+Instância são os news que damos, quando criamos contas do tipo Conta.
